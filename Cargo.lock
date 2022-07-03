@@ -1220,7 +1220,7 @@ dependencies = [
  "oorandom",
  "plotters",
  "rayon",
- "regex 1.5.5",
+ "regex 1.5.6",
  "serde",
  "serde_cbor",
  "serde_derive",
@@ -1669,7 +1669,7 @@ dependencies = [
  "atty",
  "humantime",
  "log",
- "regex 1.5.5",
+ "regex 1.5.6",
  "termcolor",
 ]
 
@@ -1810,7 +1810,7 @@ version = "0.1.0"
 name = "find-bare-lang-tags"
 version = "0.1.0"
 dependencies = [
- "regex 1.5.5",
+ "regex 1.5.6",
 ]
 
 [[package]]
@@ -1851,7 +1851,7 @@ dependencies = [
 name = "fix-code-tags"
 version = "0.1.0"
 dependencies = [
- "regex 1.5.5",
+ "regex 1.5.6",
 ]
 
 [[package]]
@@ -3363,7 +3363,7 @@ dependencies = [
  "pathdiff",
  "percent-encoding 1.0.1",
  "rand 0.7.3",
- "regex 1.5.5",
+ "regex 1.5.6",
  "reqwest",
  "serde",
  "serde_derive",
@@ -3782,7 +3782,7 @@ dependencies = [
 name = "non-recursively"
 version = "0.1.0"
 dependencies = [
- "regex 1.5.5",
+ "regex 1.5.6",
  "structopt",
 ]
 
@@ -4291,7 +4291,7 @@ version = "0.3.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "c705f256449c60da65e11ff6626e0c16a0a0b96aaa348de61376b249bc340f41"
 dependencies = [
- "regex 1.5.5",
+ "regex 1.5.6",
 ]
 
 [[package]]
@@ -4868,7 +4868,7 @@ dependencies = [
 name = "range-expansion"
 version = "0.1.0"
 dependencies = [
- "regex 1.5.5",
+ "regex 1.5.6",
 ]
 
 [[package]]
@@ -4986,7 +4986,7 @@ version = "0.1.0"
 name = "recursively"
 version = "0.1.0"
 dependencies = [
- "regex 1.5.5",
+ "regex 1.5.6",
 ]
 
 [[package]]
@@ -5013,9 +5013,9 @@ dependencies = [
 
 [[package]]
 name = "regex"
-version = "1.5.5"
+version = "1.5.6"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "1a11647b6b25ff05a515cb92c365cec08801e83423a235b51e231e1808747286"
+checksum = "d83f127d94bdbcda4c8cc2e50f6f84f4b611f69c902699ca385a39c3a75f9ff1"
 dependencies = [
  "aho-corasick 0.7.18",
  "memchr 2.5.0",
@@ -5638,7 +5638,7 @@ version = "0.1.0"
 name = "sparkline-in-unicode"
 version = "0.1.0"
 dependencies = [
- "regex 1.5.5",
+ "regex 1.5.6",
 ]
 
 [[package]]
@@ -6558,7 +6558,7 @@ dependencies = [
 name = "web-scraping"
 version = "0.1.0"
 dependencies = [
- "regex 1.5.5",
+ "regex 1.5.6",
  "reqwest",
 ]
 
